@@ -116,7 +116,7 @@ header .navbar a:hover{
     align-items: center;
     justify-content: center;
     position: relative;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)),url(bgn.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)),url(varman.jpg);
     background-clip: inherit;
     background-size: cover;
     background-position:center;
